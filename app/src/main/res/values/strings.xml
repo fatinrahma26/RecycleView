@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">superhero</string>
+    <string name="spiderman">SPIDERMAN</string>
+
+    <string-array name="nama_superhero">
+        <item>Spiderman</item>
+        <item>Batman</item>
+        <item>Black Panther</item>
+        <item>Wonder Woman</item>
+        <item>Incredibles</item>
+        <item>Hulk</item>
+    </string-array>
+
+    <array name="gambar_superhero">
+        <item>@drawable/g_spiderman</item>
+        <item>@drawable/g_batman</item>
+        <item>@drawable/g_blackpanther</item>
+        <item>@drawable/g_wonderwoman</item>
+        <item>@drawable/g_incredibles</item>
+        <item>@drawable/g_hulk</item>
+    </array>
+</resources>
